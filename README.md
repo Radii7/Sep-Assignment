@@ -2,7 +2,7 @@
 Data Science and Machine Learning Add-On Course Assignments
 
 ## Student Details
-Name: Muhammad Radin P
+Name: Muhammad Radin P  
 Roll no: CCE24CD048
 
 ## Assignments
